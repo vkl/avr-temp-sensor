@@ -1,0 +1,9 @@
+#Mon Mar 03 13:43:11 NOVT 2014
+avrtarget/ClockFrequency=4000000
+avrtarget/ExtRAMSize=0
+avrtarget/ExtendedRAM=false
+avrtarget/MCUType=attiny2313a
+avrtarget/UseEEPROM=false
+avrtarget/UseExtendedRAMforHeap=true
+avrtarget/perConfig=false
+eclipse.preferences.version=1
